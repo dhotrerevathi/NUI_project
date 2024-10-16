@@ -35,17 +35,17 @@ Install the packages mentioned in the file "requirements.txt"
 
 ### File Format:
 #### gesture file format (examples provided):
-GestureName 
-BEGIN 
-x,y <- List of points, a point per line 
-… 
-x,y 
+GestureName
+BEGIN
+x,y <- List of points, a point per line
+…
+x,y
 END
 
 #### event stream file format (examples provided):
-MOUSEDOWN 
-x,y <- List of points, a point per line 
-MOUSEUP 
+MOUSEDOWN
+x,y <- List of points, a point per line
+MOUSEUP
 RECOGNIZE <- When you see this, you should output the result. (In UI Specifically, avoid in command line)
 
 ### Usage
