@@ -1,0 +1,7 @@
+gesturefile format (examples provided):
+GestureName 
+BEGIN 
+x,y <- List of points, a point per line 
+… 
+x,y 
+END
