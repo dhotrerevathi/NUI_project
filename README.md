@@ -139,7 +139,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ## 🙏 Acknowledgments
-- Original $P algorithm by [Vatavu et al.](http://depts.washington.edu/madlab/proj/dollar/pdollar.html)
+- Original $P algorithm by [Radu-Daniel Vatavu](http://depts.washington.edu/madlab/proj/dollar/pdollar.html)
 
 
 ## Contact
