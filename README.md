@@ -47,6 +47,8 @@ x,y
 
 END
 
+
+
 #### event stream file format (examples provided):
 
 MOUSEDOWN
