@@ -42,6 +42,9 @@ Our new Gesture Creator Tool allows users to:
 ## 🚀 Quick Start
 ### Prerequisites
 - Python 3.7+
+- Tkinter (usually comes with Python)
+- NumPy
+- SciPy
 
 ### Installation
 Install the packages mentioned in the file "requirements.txt"
