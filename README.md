@@ -75,7 +75,7 @@ RECOGNIZE <- When you see this, you should output the result. (In UI Specificall
 
 ### Usage
 
-## For Creating gesture and event files:
+### For Creating gesture and event files:
 1. Run the Gesture Creator Tool:
    ```
    python .\gesture_creator.py
@@ -91,7 +91,7 @@ RECOGNIZE <- When you see this, you should output the result. (In UI Specificall
 Create as many different gestures you want. The more you build the training set, better would be the detecting capability of the $P Recognizer 
 
 
-## For testing $P Recognizer:
+### For testing $P Recognizer:
 
 1. Add a gesture template:
 python .\pdollar.py -t <path_to_gesture_file>
