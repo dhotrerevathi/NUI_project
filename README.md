@@ -94,13 +94,19 @@ Create as many different gestures you want. The more you build the training set,
 ### For testing $P Recognizer:
 
 1. Add a gesture template:
+```
 python .\pdollar.py -t <path_to_gesture_file>
+```
 
 2. Upload an event file to recognize a gesture:
+```
 python .\pdollar.py <path_to_event_file>
+```
 
 3. Clear all templates
+```
 python .\pdollar.py -r
+```
 
 
 #### Example Run:
